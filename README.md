@@ -1,2 +1,2 @@
 # autocorrelationdata
-datasets of my previous projects
+Datasets of My Previous Projects
